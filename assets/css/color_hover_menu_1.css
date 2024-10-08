@@ -1,0 +1,90 @@
+@media (min-width: 300px) {
+  #color_hover:hover {
+    background: #9e141a;
+  }
+}
+
+@media (min-width: 992px) {
+  #color_hover:hover {
+    background: #9e141a;
+  }
+}
+
+@media (min-width: 1200px) {
+  #color_hover:hover {
+    background: #9e141a;
+  }
+}
+
+@media (min-width: 1400px) {
+  #color_hover:hover {
+    background: #9e141a;
+  }
+}
+
+@media (min-width: 300px) {
+  #color_hover {
+  }
+}
+
+@media (min-width: 992px) {
+  #color_hover {
+  }
+}
+
+@media (min-width: 1200px) {
+  #color_hover {
+  }
+}
+
+@media (min-width: 1400px) {
+  #color_hover {
+  }
+}
+
+@media (min-width: 300px) {
+  .acerca_nostros {
+  }
+}
+
+@media (min-width: 992px) {
+  .acerca_nostros {
+  }
+}
+
+@media (min-width: 1200px) {
+  .acerca_nostros {
+    width: 189.3px;
+    min-width: 189.3px;
+    max-width: 189.3px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .acerca_nostros {
+  }
+}
+
+@media (min-width: 300px) {
+  .sesion {
+  }
+}
+
+@media (min-width: 992px) {
+  .sesion {
+  }
+}
+
+@media (min-width: 1200px) {
+  .sesion {
+    width: 142.3px;
+    min-width: 142.3px;
+    max-width: 142.3px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .sesion {
+  }
+}
+
