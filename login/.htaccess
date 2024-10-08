@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^pujol_manager/login/tusuarios\.php$ pujol_manager/login/tablerousuarios/ [R=301,L]
